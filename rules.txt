@@ -1,0 +1,31 @@
+BattleShip rules for programming:
+
+1. Initialiser le tableau
+
+2. Permettre le choix entre jouer à 2 joueurs ou à 1vsIA
+
+3. L'indexion du tableau sera:
+ 1 2 3 4 5 6 7 8 9 10
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+
+4. Ship list:
+    Carrier (5), 0
+    Battleship (4), 1
+    Cruiser (3), 2
+    Submarine(3), 3
+    Destroyer (2)   4
+
+5. Faire un affichage des deux tableaux: Le sien et celui de l'ennemi avec les touchés coullés.
+
+6. Regler tous les bug comme:
+    -si on entre pas les bonnes commandes
+    -
